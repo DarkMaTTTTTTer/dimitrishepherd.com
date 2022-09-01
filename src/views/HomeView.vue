@@ -17,7 +17,7 @@ import CustomButton from "../components/CustomButton.vue";
     </div>
 
     <div class="see-more-container">
-      <a href="/resume" target="_blank"> <CustomButton text="More about me" /></a>
+      <a href="https://bsh4.com/dimitri-shepherd-resume.pdf" target="_blank"> <CustomButton text="More about me" /></a>
     </div>
 
     <div class="social-icons-container">
