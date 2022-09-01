@@ -35,7 +35,7 @@ const experienceDescription = "Below can be found my work experience and the ski
       <a href="https://instagram.com/matter_darker" target="_blank" class="instagram-link"><i class="fa-brands fa-instagram fa-xl"></i></a>
 
       <!-- Download btn -->
-      <a href="../../public/files/Dimitri-Shepherd-Resume.pdf" target="_blank"><CustomButton text="Download" /></a>
+      <a href="../../public/files/dimitri-shepherd-resume.pdf" target="_blank"><CustomButton text="Download" /></a>
     </div>
     <!-- Resume container -->
     <div class="resume-container">
