@@ -1,0 +1,26 @@
+{
+  "name": "portfolio---sass",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@luxdamore/vue-cursor-fx": "^1.6.2",
+    "gsap": "^3.10.4",
+    "pinia": "^2.0.14",
+    "vue": "^3.2.37",
+    "vue-html2canvas": "^0.0.4",
+    "vue-html2pdf": "^1.8.0",
+    "vue-router": "^4.1.2",
+    "vue3-html2pdf": "^1.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "vite": "^2.9.14"
+  }
+}
