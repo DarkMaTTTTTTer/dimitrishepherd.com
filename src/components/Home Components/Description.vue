@@ -4,9 +4,7 @@
   <div class="description-wrapper">
     <div class="description-container">
       <p>
-        Highly motivated Full Stack Web Developer,
-        Tech enthusiast and Photography lover who
-        spends most of the days trying to learn something new.
+        I am a 16 year old full stack web developer specialling in providing hardware for other developers and my own projects. I run my own hosting company Battlestar Hosting.
       </p>
     </div>
 
