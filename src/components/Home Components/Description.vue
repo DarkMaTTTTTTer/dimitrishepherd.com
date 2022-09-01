@@ -4,7 +4,7 @@
   <div class="description-wrapper">
     <div class="description-container">
       <p>
-        I am a 16 year old full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting company: Battlestar Hosting.
+        I am a 16 year old, full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting company: Battlestar Hosting.
       </p>
     </div>
 

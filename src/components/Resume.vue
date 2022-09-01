@@ -18,10 +18,10 @@ const languages = [{ name: "English" }, { name: "Romanian" }, { name: "Italian" 
 const role = "IT Administrator";
 const aboutMe = [
   {
-    headline1: "I am a 16 year old full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting company: Battlestar Hosting.",
+    headline1: "I am a 16 year old, full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting company: Battlestar Hosting.",
     headline2: "Tech stack: HTML(5), Css(3), Sass, Javascript, Vue.js",
     headline3:
-      "I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques that are important to me and the success of any organization.",
+      "I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as I am continuing to learn new languages and development techniques that are important to me and the success of any organization.",
   },
 ];
 const experienceDescription = "Below can be found my work experience and the skills that I gained along the way";
