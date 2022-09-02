@@ -74,7 +74,7 @@ const projects = [
             <p>JavaScript</p>
           </div>
           <div class="postcard__bar"></div>
-          <div class="postcard__preview-txt">A collection of the most used operators to simplify your Google searches.</div>
+          <div class="postcard__preview-txt">Interested in uploading your files to blockchain? Take a look at Battlestar IPFS.</div>
           <ul class="postcard__tagbox">
             <li class="tag__item play">
               <a href="https://ipfs.battlestar.host" target="_blank"><i class="fa-solid fa-eye mr-2"></i>Live Demo</a>
