@@ -12,8 +12,7 @@ const coreTechnologies = [
   { name: "Tailwind" },
   { name: "Google Search" },
 ];
-const otherTechnologies = [{ name: "Adobe Photoshop" }, { name: "Adobe Illustrator" }, { name: "Figma" }, { name: "Microsoft Excel" }];
-const languages = [{ name: "English" }, { name: "Romanian" }, { name: "Italian" }];
+const otherTechnologies = [{ name: "Adobe Photoshop" }, { name: "Adobe Illustrator" }, { name: "Premire Pro" }, { name: "Microsoft Office" }];
 
 const role = "IT Administrator";
 const aboutMe = [
