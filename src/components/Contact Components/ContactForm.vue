@@ -22,7 +22,7 @@ const sendMail = async () => {
   isPending.value = true;
   try {
     emailjs
-      .sendForm("service_w87ouz9", "template_p7xnnfd", form.value, "HV8_XGB7uDcQMSkJy")
+      .sendForm("service_zb6xnw8", "template_8pua3tu", form.value, "HV8_XGB7uDcQMSkJy")
       .then((res) => {
         console.log("Email successfully sent!");
         //reset form values
