@@ -35,11 +35,11 @@ const projects = [
     </div>
     <div class="cards-wrapper">
       <article class="postcard light">
-        <a class="postcard__img_link" href="https://drk4.com" target="_blank">
-          <img class="postcard__img postcard__img__left" src="/public/drk4.png" alt="Image Title" />
+        <a class="postcard__img_link" href="https://bsh4.com/upload.php" target="_blank">
+          <img class="postcard__img postcard__img__left" src="/public/bsh4.png" alt="Image Title" />
         </a>
         <div class="postcard__text t-dark">
-          <h1 class="postcard__title"><a href="#">Darker Links</a></h1>
+          <h1 class="postcard__title"><a href="#">Battlestar Uploads</a></h1>
           <div class="postcard__subtitle small">
             <p>Vue 3</p>
             <p>Vue-Router</p>
@@ -50,11 +50,11 @@ const projects = [
           </div>
           <div class="postcard__bar"></div>
           <div class="postcard__preview-txt">
-            Darker Links is a all in one link system. Using one link you can make a qr code, shorten a url, make a biolink page, and so much more.
+            Battlestar Uploads is a php based API that performs file upload, editing, and deletion within milliseconds.
           </div>
           <ul class="postcard__tagbox">
             <li class="tag__item play">
-              <a href="https://drk4.com" target="_blank"><i class="fa-solid fa-eye mr-2"></i>Live Demo</a>
+              <a href="https://bsh4.com/mzlv6c6.png" target="_blank"><i class="fa-solid fa-eye mr-2"></i>Example Info</a>
             </li>
           </ul>
         </div>

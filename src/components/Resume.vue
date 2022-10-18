@@ -17,7 +17,7 @@ const otherTechnologies = [{ name: "Adobe Photoshop" }, { name: "Adobe Illustrat
 const role = "IT Administrator";
 const aboutMe = [
   {
-    headline1: "I am a 16 year old, full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting company: Battlestar Hosting.",
+    headline1: "I am a 16 year old, full stack web developer, specializing in providing hardware for other developers and my own projects. I run my own hosting project: Battlestar Hosting.",
     headline2: "Tech stack: HTML(5), Css(3), Sass, Javascript, Vue.js",
     headline3:
       "I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as I am continuing to learn new languages and development techniques that are important to me and the success of any organization.",
@@ -118,25 +118,25 @@ const experienceDescription = "Below can be found my work experience and the ski
               <div class="work-experience-title-container">
                 <h2 class="work-company-title">Battlestar Hosting</h2>
                 <span class="work-experience-divider"></span>
-                <h2 class="work-experience-subtitle">CEO - CTO</h2>
+                <h2 class="work-experience-subtitle">Primary Project Maintainer</h2>
               </div>
               <p class="work-experience-date">July 2020 - Present</p>
             </div>
             <div class="work-experience-description">
-              Battlestar Hosting is my own hosting company. I provide specialised hosting for applications, game servers, vpns, and so much more.
+              Battlestar Hosting is my own hosting project. I provide specialised hosting for applications, game servers, vpns, and so much more.
             </div>
           </div>
 
           <div class="work-experience-block">
             <div class="work-experience-header-container">
               <div class="work-experience-title-container">
-                <h2 class="work-company-title">Darker Links</h2>
+                <h2 class="work-company-title">Freelance Web Development</h2>
                 <span class="work-experience-divider"></span>
-                <h2 class="work-experience-subtitle">CEO</h2>
+                <h2 class="work-experience-subtitle">Developer</h2>
               </div>
               <p class="work-experience-date">July 2022 - Present</p>
             </div>
-            <div class="work-experience-description">Link shortener, QR code maker, Biolink page, All in one. It was desgined with the students of my school in mind.</div>
+            <div class="work-experience-description">Its a big side hobby that I have picked up. It has refined my development skills greatly.</div>
           </div>
 
         </div>
