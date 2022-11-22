@@ -17,7 +17,7 @@ import CustomButton from "../components/CustomButton.vue";
     </div>
 
     <div class="see-more-container">
-      <a href="https://drk4.com/Dimitri" target="_blank"> <CustomButton text="Quick Links" /></a>
+      <a href="https://battlestar.host" target="_blank"> <CustomButton text="Main Project" /></a>
     </div>
 
     <div class="social-icons-container">
